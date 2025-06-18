@@ -7,9 +7,10 @@
 
 ![Project Preview](https://github.com/RgAnna/vintage-teaset-3d/blob/main/vintage-teaset-3d_01.png)
 
-# Винтажный чайный сервиз 3D-модель
+# 3D Model for GameDev Vintage Teaset
 
 Low-poly 3D model of a vintage tea set designed for real-time applications and game development. A detailed low-poly 3D model of a vintage-style tea set, optimized for real-time rendering in games and interactive scenes. Includes teapot, cups, saucers, and sugar bowl with PBR textures.
+
 
 ## Description
 
@@ -51,7 +52,8 @@ Textures include realistic wear and surface imperfections.
 
 #############################################################################
 
-
+<h1 align="center"> 3D модель для GameDev <a href="https://skfb.ly/pwGZ8" target="_blank">Винтажный чайный сервиз</a> 
+ 
 Низкополигональная 3D-модель винтажного чайного сервиза, предназначенная для приложений в реальном времени и разработки игр.
 
 ## Описание
