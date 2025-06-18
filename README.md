@@ -36,8 +36,6 @@ Textures include realistic wear and surface imperfections.
 - Overlapping UV islands used for baking  
 - Texel density: approximately 1850 to 2000 pixels per meter
 
-## File Structure
-
 
 ## Контакты
 
@@ -81,7 +79,6 @@ Textures include realistic wear and surface imperfections.
 - Упаковка UV: эффективная, без ненужного пустого пространства
 - Перекрывающиеся UV-острова, используемые для запекания
 - Плотность текселей: приблизительно от 1850 до 2000 пикселей на метр
-
 
 
 ## Контакты
