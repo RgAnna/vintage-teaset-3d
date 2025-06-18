@@ -39,8 +39,14 @@ Textures include realistic wear and surface imperfections.
 ## File Structure
 
 #############################################################################
-# Social :
-**Artstation** - [Link](https://www.artstation.com/rganna)
+## Контакты
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
+[![VK](https://img.shields.io/badge/-VK-4C75A3?style=flat&logo=vk&logoColor=white)](https://vk.com/rganna_art)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-rogova-487090370/)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/rganna)
+[![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
+
 
 #############################################################################
 
@@ -78,7 +84,13 @@ Textures include realistic wear and surface imperfections.
 
 
 #############################################################################
-# Социальные сети :
-**Artstation** - [Link](https://www.artstation.com/rganna)
+## Контакты
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
+[![VK](https://img.shields.io/badge/-VK-4C75A3?style=flat&logo=vk&logoColor=white)](https://vk.com/rganna_art)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-rogova-487090370/)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/rganna)
+[![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
+
 
 #############################################################################
