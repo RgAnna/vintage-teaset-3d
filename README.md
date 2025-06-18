@@ -50,14 +50,13 @@ Textures include realistic wear and surface imperfections.
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
-#############################################################################
+___
 
 <h1 align="center"> 3D модель для GameDev <a href="https://skfb.ly/pwGZ8" target="_blank">Винтажный чайный сервиз</a> 
 
 ## Описание
 
 Низкополигональная 3D-модель винтажного чайного сервиза, предназначенная для приложений в реальном времени и разработки игр.
-
 
 
 Модель была создана на основе визуальных референсов винтажной посуды. Она включает в себя следующие компоненты:
