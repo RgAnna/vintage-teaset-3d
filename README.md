@@ -1,5 +1,5 @@
 
-<h1 align="center">Vintage Teaset 3D Model for GameDev <a href="https://daniilshat.ru/" target="_blank">Vintage Teaset</a> 
+<h1 align="center"> 3D Model for GameDev <a href="https://skfb.ly/pwGZ8" target="_blank">Vintage Teaset</a> 
 
 ![Project Preview](https://github.com/RgAnna/vintage-teaset-3d/blob/main/vintage-teaset-3d.png)
 
