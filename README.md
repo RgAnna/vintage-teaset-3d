@@ -38,7 +38,7 @@ Textures include realistic wear and surface imperfections.
 
 ## File Structure
 
-#############################################################################
+
 ## Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
@@ -83,7 +83,7 @@ Textures include realistic wear and surface imperfections.
 - Плотность текселей: приблизительно от 1850 до 2000 пикселей на метр
 
 
-#############################################################################
+
 ## Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
@@ -93,4 +93,3 @@ Textures include realistic wear and surface imperfections.
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
-#############################################################################
