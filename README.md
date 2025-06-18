@@ -1,13 +1,12 @@
 
- 
 <h1 align="center">Vintage Teaset 3D Model for GameDev <a href="https://daniilshat.ru/" target="_blank">Vintage Teaset</a> 
 
 ![Project Preview](https://github.com/RgAnna/vintage-teaset-3d/blob/main/vintage-teaset-3d.png)
 
+A detailed low-poly 3D model of a vintage-style tea set, optimized for real-time rendering in games and interactive scenes. Includes teapot, cups, saucers, and sugar bowl with PBR textures.
+
 ![Project Preview](https://github.com/RgAnna/vintage-teaset-3d/blob/main/vintage-teaset-3d_01.png)
 
-A detailed low-poly 3D model of a vintage-style tea set, optimized for real-time rendering in games and interactive scenes. Includes teapot, cups, saucers, and sugar bowl with PBR textures.
-# Vintage Teaset 3D Model
 
 Low-poly 3D model of a vintage tea set designed for real-time applications and game development.
 
